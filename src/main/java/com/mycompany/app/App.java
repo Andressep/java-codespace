@@ -6,7 +6,10 @@
 package com.mycompany.app;
 
 public class App {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
+        System.out.println("Agregando el commit inicial.");
     }
 }
